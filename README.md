@@ -1,10 +1,3 @@
-# Source template
-
-[arrowhead-kalix-examples/echo-cloud](https://github.com/arrowhead-f/arrowhead-kalix-examples/tree/master/echo-cloud)
-
-License: [EPL-2.0 License](https://github.com/arrowhead-f/arrowhead-kalix-examples/blob/master/LICENSE)
-
-
 # Instructions
 
 ## Requirements
