@@ -1,0 +1,7 @@
+[submodule "core-java-spring"] 
+  path = core-java-spring
+  url = https://github.com/bugmana/core-java-spring
+  
+[submodule "sos-examples-spring"] 
+  path = sos-examples-spring
+  url = https://github.com/bugmana/sos-examples-spring
